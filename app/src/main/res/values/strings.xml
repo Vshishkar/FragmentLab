@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">FragmentTest</string>
+
+
+    <string-array name="Planets">
+        <item>Sun</item>
+        <item>Mercury</item>
+        <item>Venus</item>
+        <item>Earth</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Saturn</item>
+        <item>Uranus</item>
+        <item>Neptune</item>
+    </string-array>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" size="20sp">Hello blank fragment</string>
+    <string name="food_name" size="20sp">The food</string>
+    <string name="food_description" size="20sp">Food description</string>
+
+
+</resources>
